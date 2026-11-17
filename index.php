@@ -9,7 +9,7 @@
 <body>
     <header>
         <nav class="navbar">
-            <a href="../frontend/gen_devis.php">Réaliser mon devis</a>
+            <a href="frontend/gen_devis.php">Réaliser mon devis</a>
             <div class="dropdown">
                 <button class="dropbutton">Services</button>
                 <div class="dropdown-content">
